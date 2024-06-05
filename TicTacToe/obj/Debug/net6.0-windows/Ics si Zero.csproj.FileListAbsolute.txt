@@ -1,0 +1,16 @@
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\bin\Debug\net6.0-windows\Ics si Zero.exe
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\bin\Debug\net6.0-windows\Ics si Zero.deps.json
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\bin\Debug\net6.0-windows\Ics si Zero.runtimeconfig.json
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\bin\Debug\net6.0-windows\Ics si Zero.dll
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\bin\Debug\net6.0-windows\Ics si Zero.pdb
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\obj\Debug\net6.0-windows\Ics_si_Zero.IcsSiZero.resources
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\obj\Debug\net6.0-windows\Ics si Zero.csproj.GenerateResource.cache
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\obj\Debug\net6.0-windows\Ics si Zero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\obj\Debug\net6.0-windows\Ics si Zero.AssemblyInfoInputs.cache
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\obj\Debug\net6.0-windows\Ics si Zero.AssemblyInfo.cs
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\obj\Debug\net6.0-windows\Ics si Zero.csproj.CoreCompileInputs.cache
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\obj\Debug\net6.0-windows\Ics si Zero.dll
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\obj\Debug\net6.0-windows\ref\Ics si Zero.dll
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\obj\Debug\net6.0-windows\Ics si Zero.pdb
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\obj\Debug\net6.0-windows\Ics si Zero.genruntimeconfig.cache
+C:\Users\tudor\source\repos\Ics si Zero\Ics si Zero\obj\Debug\net6.0-windows\refint\Ics si Zero.dll
